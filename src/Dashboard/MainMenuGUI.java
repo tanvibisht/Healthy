@@ -1,3 +1,7 @@
+package Dashboard;
+
+import UserSignUp.SignupGUI;
+
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
